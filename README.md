@@ -1,9 +1,9 @@
-<h3>Hey, Eu sou Maria Cavalcante, atualmente estou estudando programação e Tecnologia.</h3>
-<h4>Seja bem vindo!</h4>
-<a href="https://web.dio.me/users/maria2017tj?tab=achievements">Minha DIO</a>
-<br>
-<a href="https://www.linkedin.com/in/maria-cavalcante-92303b22b/">Meu LinkedIn</a>
-
+<h3>Hey, Eu sou Maria Cavalcante, atualmente estou estudando programação.</h3>
+<h4>Me acompanhe:</h4>
+<ul>
+  <li><a href="https://web.dio.me/users/maria2017tj?tab=achievements">DIO</a><br></li>
+  <li><a href="https://www.linkedin.com/in/maria-cavalcante-92303b22b/">Meu LinkedIn</a></li>
+  </ul>
 
 <div align="center">
   <a href="https://github.com/mrsapple">
